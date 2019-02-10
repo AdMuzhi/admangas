@@ -1,0 +1,53 @@
+.logosb{margin-left:5px}.search-head-sm{position:relative}.search-head-sm .fa{position:absolute;font-size:17px;right:0;padding:6px 7px 0 5px;color:#e2dfdf}
+.search-head-sm input{padding-right:30px;width:100%!important;background-color:#36608c;border:2px solid #23466b;color:#FFF}.search-head-sm input::-webkit-input-placeholder{color:#d2d1d1}
+.search-head-sm input:-moz-placeholder{color:#d2d1d1}.search-head-sm input::-moz-placeholder{color:#d2d1d1}.search-head-sm input:-ms-input-placeholder{color:#d2d1d1}
+.infoinbu{position:absolute;top:0;right:0;float:left;width:100%;color:#fff;height:100%;display:none;opacity:0;list-style:none;margin:0;padding:0}.infoinbu li{float:left;margin-top:10px;padding:5px 0;font-size:15px;width:100%;text-align:center}
+.infoinbu li i.icon_prin{font-size:30px}.infoinbu li i.icon_compl{font-size:19px}.infoinbu li span.btn{border-radius:3px}.list_mangas .item_manga{padding:0 13px}
+.list_mangas .item_manga .cover{float:left;width:100%;position:relative;overflow:hidden;padding:1px;background-color:#ddd;border-radius:2px}.list_mangas .item_manga .hoverme{position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,.5);display:none}
+.list_mangas .item_manga .cover:hover{background:transparent}.list_mangas .item_manga .cover:hover .infoinbu{opacity:1;display:block}.list_mangas .item_manga .cover:hover .hoverme{display:block}
+.list_mangas .item_manga .cover img{width:100%}.list_mangas .item_manga .info_manga{float:left;width:100%;margin-bottom:50px}.list_mangas .item_manga .info_manga h2{margin-top:3px;margin-bottom:0}
+.list_mangas .item_manga .info_manga h2 a{overflow:hidden;white-space:nowrap;float:left;text-overflow:ellipsis;line-height:19px;width:100%;text-decoration:none;font-size:14px;font-weight:400}
+.list_mangas .item_manga .cap_list{color:#b1b8c2;font-size:13px;float:left;width:100%}.timeline.last_caps:before{left:34px}.last_caps .timeline-entry{margin-bottom:40px}
+.last_caps .timeline-stat{width:70px}.last_caps .timeline-icon{height:60px}.last_caps .timeline-icon img{border-radius:0;height:68px}.last_caps .timeline-label{margin-left:70px}
+.last_caps .timeline-label .timeline-time{padding:0 0 4px;margin-top:0}.last_caps .timeline-label a{font-size:14px;line-height:25px;padding:10px;display:block;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.last_caps .timeline-label a img.lang-flag{padding:0 0 1px 0}.last_caps .timeline-label:hover{background:#f1f0f0}.timeline.last_caps:after{left:32px}.top_mangas .list-group-item{font-size:15px}
+.top_mangas .list-group-item:hover{color:#3b927b}.top_mangas .list-group-item:hover span{color:#fff;background-color:#5180c6;border-color:#91cebd;margin-left:5px}
+.top_mangas .list-group-item .numeracion{font-size:20px;padding:2px 0;width:35px;display:inline-block}.top_mangas a.category{padding:5px 10px}.mangas_alfa_list .list-group{list-style:none;font-size:17px}
+.mangas_alfa_list .list-group li{padding:5px 10px}.mangas_alfa_list .list-group li a{overflow:hidden;white-space:nowrap;text-overflow:ellipsis;font-weight:300;display:block}
+.mangas_alfa_list .list-group li a:hover{text-decoration:underline}.menu_alfa_list{list-style:none;margin:0;padding:20px 14px}.menu_alfa_list li{display:inline-block;margin-right:5px;margin-top:5px}
+.menu_alfa_list li a{width:30px;height:30px;line-height:30px;text-align:center;text-transform:uppercase;font-weight:700;border-radius:50%;display:block;color:#358a73;background-color:#f5f5f5}
+.menu_alfa_list li a:hover{color:#f5f5f5;background-color:#89d8c3}.list_mangas_search{padding:0;float:left;width:100%;list-style:none}.list_mangas_search .brd-dot{border:1px dotted #84c1b1;overflow:hidden;padding:6px 10px}
+.list_mangas_search li{overflow:hidden}.list_mangas_search .ranking-s{padding-left:0;float:left;margin-right:10px;border-bottom:1px solid #fff;margin-top:10px;min-width:63px}
+.list_mangas_search .ranking-s .rating{font-size:30px;color:#999;float:left;font-weight:300;width:100%;text-align:center;background:#dce0e3;padding:15px 0;border-radius:5px;min-width:28px}
+.list_mangas_search .ranking-s .rating-text{font-weight:700;font-size:18px;float:left;color:#777;text-align:center;width:100%}.list_mangas_search img{float:left;margin-right:10px;width:70px;height:105px}
+.list_mangas_search a h2{font-size:20px;font-weight:400;color:#5180c6;margin-bottom:5px;margin-top:10px}.list_mangas_search a:hover h2{text-decoration:underline}
+.list_mangas_search li .infom{color:#999;font-size:14px;line-height:33px}#noticias .carousel-caption{left:0;right:0;bottom:0;text-align:left;padding:10px;background:rgba(0,0,0,0.6);text-shadow:none}
+#noticias .carousel-caption p{text-align:justify}#noticias .list-group{position:absolute;top:0;right:0;margin:0;padding:0}#noticias .list-group-item{border-radius:0;cursor:pointer;width:100%}
+#noticias .list-group-item.active{width:101%;background-color:#f7f7f7;border-color:#e3e3e3;color:#2c9c7e}#noticias .carousel-control{color:#FFF;font-size:25px}
+@media(min-width:992px){#noticias{padding-right:33.3333%}#noticias .carousel-controls{display:none}}@media(max-width:991px){.carousel-caption p,#noticias .list-group{display:none}
+}.con-menu-user{margin:0;padding:20px 0;list-style:none;display:block;position:relative}.con-menu-user li>a{color:inherit;display:block;text-align:center;padding:0}
+.con-menu-user li>a .icon-wrap{display:inline-block;line-height:1;text-align:center;white-space:nowrap;vertical-align:middle}.con-menu-user li.active>a .icon-wrap{background-color:#5180c6;color:#FFF}
+#masonry_list .masonry-item{width:100%;padding:6px;display:inline-block;vertical-align:top;margin-bottom:12px}#masonry_list .masonry-item img{width:100%}
+@media screen and (min-width:768px){#masonry_list .masonry-item{width:33.33333%}}@media screen and (min-width:992px){#masonry_list .masonry-item{width:20%}
+}.secbar-reader{overflow:hidden;background-color:#1ea285!important;padding:5px;display:none}.reader-content{margin:80px 0 20px 0}.reader-content .page_img{display:inline-block;margin-bottom:5px;margin-top:5px}
+.btn-reader{color:#FFF;background-color:rgba(100,190,148,0.56);display:block;position:fixed;top:50%;margin-top:-40px;speak:none;font-size:40px!important;text-align:center}
+.btn-reader:hover{background-color:#64be94;color:#FFF}.btn-reader:focus{color:#FFF}.btn-header-left{left:0;padding-left:18px;padding-right:22px}.btn-header-right{right:0;padding-left:22px;padding-right:18px}
+.reader-bar{-webkit-transform:translate3d(0,0,0);justify-content:space-between;box-shadow:0 2px 0 -1px rgba(0,0,0,0.05);display:flex;transition:all .25s;-webkit-transition:all .25s;position:fixed;z-index:1020;left:0;right:0;height:35px;bottom:0;background-color:#fff;color:black}
+.reader-bar:hover{box-shadow:0 5px 30px #000;height:100px;background-color:#fbfbfb}.reader-bar .cover-bar{transition:all .5s;-webkit-transition:all .25s;flex:0 0 auto;background-position:0 50%;filter:grayscale(50%);-webkit-filter:grayscale(50%);width:125px;height:100%;background-size:100% auto;position:relative;top:0;left:0;border:0 solid}
+.reader-bar:hover .cover-bar{transition:all .5s;-webkit-transition:all .25s;filter:grayscale(0%);-webkit-filter:grayscale(0%);background-position:0 0;height:220px;top:-124.2px;width:160px;left:6px;border:1px solid #6bb19e}
+.reader-bar .info-bar{transition:all .25s;-webkit-transition:all .25s;display:flex;flex-direction:column;padding:5px 15px;flex:1 0 567px;align-self:baseline}
+.reader-bar .info-bar .info-title{color:#111;display:block;padding-bottom:5px}.reader-bar .info-bar .info-title h2{margin-right:10px;text-overflow:ellipsis;word-wrap:break-word;white-space:nowrap;overflow:hidden;display:inline-block;font-size:20px;margin:0}
+.reader-bar .info-bar .info-title img.info-language{padding:5px;color:#5f5f5f;font-size:13px;cursor:default;top:-8px;position:relative;white-space:nowrap}
+.reader-bar .info-bar .info-caps{text-transform:uppercase;margin-bottom:10px}.reader-bar .info-bar .info-ratings{display:flex;font-size:20px}.reader-bar .info-bar .info-ratings .rating-num{display:flex;margin-right:10px;color:#b1b1b1}
+.reader-bar .info-bar .info-ratings .rating-stars{color:#fed96e}.reader-bar .social-bar{flex:1 0 auto;padding:2px;padding-left:30px}.reader-bar .social-bar .separation{margin-bottom:22px}
+.reader-bar .sets-bar{flex:1 0 auto;padding:4px;padding-left:30px;max-width:230px}.reader-bar .sets-bar .progress{margin:4px 0 23px 0}.reader-bar .sets-bar .progress{position:relative}
+.progress span{position:absolute;display:block;width:100%;color:#4a4a4a}.reader-bar .pagination-bar{flex:1 0 auto;padding:4px 4px 0 8px;font-size:20px}
+.reader-menu-page{background-color:#f3f3f3;position:fixed;top:0;width:300px;bottom:35px;-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out}
+.sidebar-manga{margin-bottom:20px}.sidebar-manga .img-cover-m{width:100%}.sidebar-manga .list-man a{color:#9a9a9a!important;border-bottom:1px solid #c7c7c7!important}
+.content-manga{font-size:15px}.content-manga .mark-as{margin-top:30px}.content-manga .mark-as ul.dropdown-menu{margin:0;font-size:16px}.content-manga .mark-as ul.dropdown-menu li a{padding:10px;color:#797979!important}
+.content-manga .mark-as ul.dropdown-menu li a:hover{background-color:rgba(231,235,238,0.46);color:#333}.content-manga .mark-as ul.dropdown-menu li a i{font-size:19px}
+.content-manga .mark-as ul.dropdown-menu li.divider{margin:0}.content-manga .puntuation{font-size:25px;background-color:#f6f8fa;color:#9a9a9a;border:1px solid #e7ebee;font-weight:600}
+.scroll-chap{height:439px;border:3px solid #e7ebee}.no-chap{background-color:#f0f2f6;border:3px solid #e7ebee;padding:20px}#caps-list td{line-height:25px;vertical-align:middle}
+#caps-list td a{display:block;padding:5px}#caps-list .cap-status{color:#d6d8da;display:block}#caps-list .cap-status i{font-size:28px}#caps-list .cap-status.read{color:#3caf95}
+.panel-chapter{background-color:#f6f8fa;border:3px solid #e7ebee;color:#8e8e8e}.panel-chapter img.img-op{opacity:.4}.panel-chapter i.i-op{color:rgba(142,142,142,0.51)}
+.overlay-modal{position:absolute;top:0;left:0;width:100%;height:100%;z-index:1030;background-color:rgba(0,0,0,0.7)}.chaptercontrols {margin-top:6px;text-align:right;}.form-control{width:60px;}
